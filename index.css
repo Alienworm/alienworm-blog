@@ -95,7 +95,7 @@ body {
     align-items: center;
 }
 
-@media (max-width: 1000updatepx) {
+@media (max-width: 1000) {
     .blog-sidebar {
         position: fixed;
         top: 5vh;
